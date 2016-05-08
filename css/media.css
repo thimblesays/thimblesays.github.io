@@ -1,0 +1,110 @@
+@media screen and (max-width: 800px) {
+    .title h1{
+        display: none;
+    }
+    .title h2{
+        font-weight: 100;
+        width: 25%;
+        float: left;
+        font-size: 20px;
+        margin-top: 5px;
+    }
+    .title h3{
+        font-weight: 300;
+        width: 100%;
+        float: left;
+        font-size: 48px;
+        margin-top: 10px;
+        display: block;
+    }
+    .main-pic{
+        float: left;
+        margin-top: 100px;
+        margin-left: 5%;
+        margin-right: 5%;
+        width: 90%;
+        height:400px;
+        background-color:rgba(250,250,250,0.2);
+    }
+    .main-pic img{
+        float: left;
+        width: 100%;
+        height: 400px;
+    }
+    .announcements{
+        margin-top: 100px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        float: left;
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    
+    .announcements h1{
+        font-size: 32px;
+        width: 60%;
+        margin-left: 20%;
+        margin-rigth: 20%;
+    }
+    
+    .bio{
+        width: 60%;
+        margin-top: 60px;
+        margin-left: 20%;
+        margin-right: 20%;
+        border-right: none;
+    }
+    .current-story{
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-top: 50px;
+    }
+    
+    .studio{
+        float: left;
+        margin-top: 30px;
+        width: 75%;
+        margin-left: 12.5%;
+    }
+
+    .studio img{
+        margin-right: 15%;
+        margin-left: 15%;
+        width: 70%;
+    }
+    .studio p{
+        margin-top: 15px;
+        float: left;
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+   
+    .footer2{
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .footer2 p{
+        font-size: 15px;
+        width: 100%;
+        margin-left: 0%;
+        margin-right: 0%;
+        margin-bottom: 25px;
+    }
+    .foot-wrap{
+        width: 50%;
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+    .foot-wrap img{
+        float: left;
+        width: 100px%;
+        margin-left: 15%;
+        margin-right: 15%;
+        height: 50px;
+    }
+}

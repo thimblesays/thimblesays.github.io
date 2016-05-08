@@ -49,6 +49,14 @@ font-family: 'Raleway', sans-serif;
     font-size: 20px;
     margin-top: 50px;
 }
+.title h3{
+    font-weight: 300;
+    width: 50%;
+    float: left;
+    font-size: 78px;
+    margin-top: 30px;
+    display: none;
+}
 
 .main-pic{
     float: left;
@@ -60,6 +68,7 @@ font-family: 'Raleway', sans-serif;
     background-color:rgba(250,250,250,0.2);
 }
 .main-pic img{
+    float: left;
     width: 100%;
     height: 700px;
 }
@@ -194,16 +203,6 @@ font-family: 'Raleway', sans-serif;
     border-radius: 5px;
 }
 
-.footer2{
-    float: left;
-    width: 80%;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 50px;
-    height: 150px;
-    border-top: 3px solid black;
-}
-
 .story{
     width: 80%;
     float: left;
@@ -230,6 +229,16 @@ font-family: 'Raleway', sans-serif;
     width: 80%;
     margin-left: 10%;
     margin-right: 10%;
+}
+
+.footer2{
+    float: left;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 50px;
+    height: 150px;
+    border-top: 3px solid black;
 }
 
 .footer2 p{
