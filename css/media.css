@@ -123,6 +123,10 @@
     .main-pic img{
         height: 450px;
     }
+    .title{
+        width: 100%;
+        margin-left: 0;
+    }
      .title h2{
         font-weight: 100;
         width: 25%;
@@ -131,5 +135,6 @@
         margin-top: 5px;
         margin-left:0;
         margin-right:0;
+        text-align: center;
     }
 }
