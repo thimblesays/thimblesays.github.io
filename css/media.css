@@ -109,9 +109,15 @@
         margin-right: 15%;
         height: 50px;
     }
+    .blank-space{
+        display: none;
+    }
 }
 
 @media screen and (max-width: 450px) {
+    .blank-space{
+        display: none;
+    }
     .main-pic{
 
         margin-left: 10%;
